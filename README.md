@@ -17,5 +17,5 @@ It’s a place where I share who I am, my projects, and my journey as a **Mathem
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/DevGloriaa/Gloria-portfolio.git
 cd portfolio
